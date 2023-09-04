@@ -9,7 +9,6 @@
 4. 마감 기한
 5. 테스트
 6. 참고문서
-7. 부록
 ```
 
 ## 개요
@@ -38,3 +37,22 @@ API 및 모듈 호출, 입력 / 출력 등의 컨트롤러 구현 등에 더 초
 + 로컬로 진행하는 개인 프로젝트이므로 배포 단계는 생략하였음
 ```
 
+## Test
+### JS 주요 기능
+### ![js기능](https://github.com/onehowon/ToyProject/assets/81984723/296af6b2-5e7a-4b17-8bf5-55b4d6b7eff4)
+```
+method:'POST'
+header : Content-Type: application/json
+body : JSON.stringify
+```
+###![요약봇 2](https://github.com/onehowon/ToyProject/assets/81984723/11ee73e2-c2e9-4bfe-a48e-5344b6ce057b)
+```
+공백포함 2300자가 넘어가는 기존 뉴스의 글자 수를 241자까지 축소하여 요약해주고 있는 기능 구현 화면
+```
+
+## Reference
+```
+자바스크립트의 fetch() 함수로 원격 API 호출하기(https://www.daleseo.com/js-window-fetch/)
+API 설계 시 데이터 타입 POST, GET 사용법(https://as-j.tistory.com/43)
+[CSS] 🎨 버튼(Button) 디자인 스타일 모음(https://inpa.tistory.com/entry/CSS-%F0%9F%92%8D-%EB%B2%84%ED%8A%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%AA%A8%EC%9D%8C)
+```
