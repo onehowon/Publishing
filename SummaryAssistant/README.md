@@ -45,7 +45,7 @@ method:'POST'
 header : Content-Type: application/json
 body : JSON.stringify
 ```
-###![요약봇 2](https://github.com/onehowon/ToyProject/assets/81984723/11ee73e2-c2e9-4bfe-a48e-5344b6ce057b)
+### ![요약봇 2](https://github.com/onehowon/ToyProject/assets/81984723/11ee73e2-c2e9-4bfe-a48e-5344b6ce057b)
 ```
 공백포함 2300자가 넘어가는 기존 뉴스의 글자 수를 241자까지 축소하여 요약해주고 있는 기능 구현 화면
 ```
